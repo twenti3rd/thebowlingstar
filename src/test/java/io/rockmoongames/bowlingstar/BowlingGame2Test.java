@@ -1,4 +1,4 @@
-class JavaGame2Test {
+class BowlingGame2Test {
 
     @Test
     public void lisaTestFour(){
@@ -18,5 +18,11 @@ class JavaGame2Test {
     @Test
     public void lisaTestSeven(){
         
+    }
+public class BowlingGame2Test {
+
+    @Test
+    public void lisaFourTest(){
+
     }
 }
